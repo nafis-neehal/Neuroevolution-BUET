@@ -3,8 +3,8 @@
 Installation Guideline - 
 
 1. Download and Install Anaconda - https://www.anaconda.com/download/  (make sure you add anaconda to your PATH, you can check it while installation.)
-2. Clone all the files to your local drive folder.
-3. Press Shift + Right Click (in mouse)
+2. Clone all the files to your local drive folder. You may name it "Neuroevolution".
+3. Press Shift + Right Click (in mouse) while you are inside your "Neuroevolution" folder. Don't select any file while clicking. 
 4. Select "Open Command Window Here" 
 5. Write "Jupyter Notebook" in the command prompt
 6. A "Home" tab running in the Localhost will be opened in the browser - http://localhost:8888/tree 
