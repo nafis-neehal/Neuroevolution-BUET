@@ -11,4 +11,4 @@ Installation Guideline -
 7. Click on Main.ipynb 
 8. In a new tab the main file will be opened. Click on "Kernel" from the Menu, and select "Restart and Run All"
 9. Some outputs may differ a bit as there are random values involved.
-10. MAKE SURE NeuralNetwork.py, PSO.py input.csv and Main.ipynb - these four files are in the same folder. If not, use relative folder path accordingly. 
+10. MAKE SURE NeuralNetwork.py, PSO.py input.csv and Main.ipynb - these four files are in the same folder. If not, use relative folder path accordingly while importing them at the top of the code. 
